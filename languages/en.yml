@@ -1,9 +1,9 @@
 nav:
   home: Home
   about: About
-  articles: Writing
-  tag: Tag
-  category: Category
+  articles: Posts
+  tag: Tags
+  category: Categories
   projects: Projects
   search: Search
 
@@ -18,7 +18,9 @@ index:
   find_me_on: Find me on
   enum_comma: ','
   enum_and: and
-  articles: Writing
+  articles: Posts
+  category: Categories
+  tag: Tags
   projects: Projects
   topics: Topics
   most_recent: Most recent
